@@ -1,0 +1,4 @@
+- first add a gradle dependency
+    implementation 'com.google.firebase:firebase-ml-vision:24.0.1'
+    implementation 'com.google.firebase:firebase-ml-vision-barcode-model:16.0.2'
+

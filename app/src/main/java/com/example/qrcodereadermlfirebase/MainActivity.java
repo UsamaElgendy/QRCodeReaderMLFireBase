@@ -82,6 +82,7 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void run() {
                         txt_result.setText(data);
+                        System.out.println(data);
                     }
                 });
             }
